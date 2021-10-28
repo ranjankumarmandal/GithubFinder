@@ -1,0 +1,1 @@
+About - Tihs is dymanic website. Technologies used - HTML5, CSS3, JavaScript (ES6+), Asynchronous Coding in JS, Fetch API, Async await, OOPs.
